@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+.header{
+    background-color: white;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+div.html-icon {
+    width: 6%;
+    font-size: 2rem;
+}
+div.middle-section {
+    width: 90%;
+        font-family: "Inria Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+div.dots {
+ 
+    text-align: right;
+    font-size: 2rem;
+}
+
+article.content img{
+    width: 100%;
+}
+
+.content{
+    background-color: white;
+   
+}
+
+.footer{
+    background-color: white;
+    padding: 1rem;
+    text-align: left;
+    font-size: 1.5rem;
+      }
+div.full-icon-line {
+    display: flex;
+    flex-direction: row;
+    font-size: 2rem;
+}
+div.footer-icons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: green;
+}
+div.footer-last-icon {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: yellow;
+}
+.wrapper {
+    margin: auto;
+    width: 600px;
+}
+
